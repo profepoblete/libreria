@@ -1,0 +1,1 @@
+UPDATE libros SET autor_id = 1;
